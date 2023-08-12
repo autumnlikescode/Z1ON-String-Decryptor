@@ -1,5 +1,5 @@
 # Z1ON-String-Decryptor
-Z1ON-String-Decryptor is an open-source decryptor for StringToHex Obfuscator. License: MIT.
+Z1ON-String-Decryptor is an open-source decryptor for Z1ON Obfuscator. License: MIT.
 
 ## Usage
 Compile Drag and Drop Encrypted assembly onto Compiled Decryptor exe
